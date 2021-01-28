@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.Container{
+  display: flex;
+  flex-direction: row;
+}
+
+.Selected_Countries{
+  display: flex;
+  flex-wrap: wrap;
+}
